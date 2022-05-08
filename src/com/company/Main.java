@@ -3,6 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
+        /* //Zadanie 1
         Punkt pkt1 = new Punkt();
         Punkt pkt2 = new Punkt(2.5,3.43);
         Punkt pkt3 = new Punkt(-21,2);
@@ -31,16 +32,18 @@ public class Main {
         System.out.println("---------");
         t1.Opis();
         System.out.println("---------");
-        pr1.Opis();
+        pr1.Opis();*/
 
-        /*Samochod s1 = new Samochod();
+        /* //Zadanie2
+        Samochod s1 = new Samochod();
         Samochod s2 = new Samochod();
         s1.Wypisz();
         s2.Wypisz();
         SamochodOsobowy so1 = new SamochodOsobowy();
         so1.Wypisz();*/
 
-        Ksiegarnia ksieg1=new Ksiegarnia("Nova",40,34567);
+        //Zadanie 3
+        /*Ksiegarnia ksieg1=new Ksiegarnia("Nova",40,34567);
         Podrecznik p1= new Podrecznik("Podstawy angielskiego","Konrad","Wezel",2018);
         Powiesc pow1=new Powiesc("W pustyni i w puszczy","Henryk","Sienkiewicz",1911,"przygodowa");
         Klient k1 = new Klient("Piotr","Pasierb");
@@ -53,6 +56,6 @@ public class Main {
         System.out.println("---------");
         ks1.Wypisz();
         System.out.println("---------");
-        System.out.println(k1.przedstawSie());
+        System.out.println(k1.przedstawSie());*/
     }
 }
